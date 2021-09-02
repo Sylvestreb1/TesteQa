@@ -1,0 +1,112 @@
+﻿2021-08-19T12:55:15.1402715-03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2021-08-19T12:55:15.1402715-03:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.9.7 in Framework clr40 in x64 mode execution started
+2021-08-19T12:55:15.1402715-03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\Victor\.nuget\packages\specrun.runner\3.9.7\tools\net461\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2021-08-19T12:55:15.1412697-03:00;VSTestExecutionThread;Info;Current UserName: 'Anderson Sylvestre', MachineName: 'ANSW10-0264'
+2021-08-19T12:55:15.1702797-03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\ProjetoTesteQa\TesteEveris\Everis\Everis\bin\Debug\Everis.dll
+2021-08-19T12:55:15.1702797-03:00;VSTestExecutionThread;Info;Output folder configured to "C:\ProjetoTesteQa\TesteEveris\Everis\TestResults" (default)
+2021-08-19T12:55:15.1702797-03:00;VSTestExecutionThread;Info;Profile: 
+2021-08-19T12:55:15.2179678-03:00;VSTestExecutionThread;Info;Log file path: C:\ProjetoTesteQa\TesteEveris\Everis\TestResults\Unnamed project__2021-08-19T125515.log
+2021-08-19T12:55:15.2239900-03:00;Thread#13;Info;Checking activation
+2021-08-19T12:55:15.2832365-03:00;Thread#13;Info;Activated.
+2021-08-19T12:55:15.2841905-03:00;Thread#13;Info;Activation check completed
+2021-08-19T12:55:15.2841905-03:00;Thread#13;Info;Starting test run
+2021-08-19T12:55:15.3161062-03:00;Thread#13;Info;Discovering target: Default
+2021-08-19T12:55:15.3161062-03:00;Thread#13;Info;Discovering tests from assembly: C:\ProjetoTesteQa\TesteEveris\Everis\Everis\bin\Debug\Everis.dll
+2021-08-19T12:55:15.6415852-03:00;Thread#13;Info;Discovered tests from assembly: C:\ProjetoTesteQa\TesteEveris\Everis\Everis\bin\Debug\Everis.dll
+2021-08-19T12:55:15.6435527-03:00:Test Suite Dump
+2021-08-19T12:55:15.6445772-03:00:#0: Unnamed project/ - 
+2021-08-19T12:55:15.6445772-03:00:#1: Default - 
+2021-08-19T12:55:15.6445772-03:00:#2: Everis - 
+2021-08-19T12:55:15.6445772-03:00:#3: TesteEveris Validar os valores no carrinho - 
+2021-08-19T12:55:15.6789811-03:00:#4: Validar os valores no carrinho - TestAssembly:Everis/Feature:TesteEveris+Validar+os+valores+no+carrinho/Scenario:Validar+os+valores+no+carrinho
+2021-08-19T12:55:15.6789811-03:00:End: Test Suite Dump
+2021-08-19T12:55:15.7169045-03:00:Thread#0:Scheduler: get next test for thread 0
+2021-08-19T12:55:15.7189412-03:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2021-08-19T12:55:15.7189412-03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-08-19T12:55:15.7228885-03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-08-19T12:55:15.7228885-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-08-19T12:55:15.7228885-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-08-19T12:55:15.7228885-03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-08-19T12:55:15.7238856-03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-08-19T12:55:15.7248830-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-08-19T12:55:15.7278491-03:00:Thread #0: creating new test thread executor for Everis, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2021-08-19T12:55:15.7298443-03:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2021-08-19T12:55:15.7318386-03:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2021-08-19T12:55:15.7328357-03:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2021-08-19T12:55:15.8674755-03:00:Thread#0:T:-> Loading plugin C:\ProjetoTesteQa\TesteEveris\Everis\Everis\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2021-08-19T12:55:15.8734596-03:00:Thread#0:T:-> Loading plugin C:\ProjetoTesteQa\TesteEveris\Everis\Everis\bin\Debug\Everis.dll
+2021-08-19T12:55:15.8754541-03:00:Thread#0:T:-> Using default config
+2021-08-19T12:55:16.1437045-03:00:Thread#0: Test #4/0 is started on thread #0
+2021-08-19T12:55:16.3211688-03:00:Thread#0:B:Dado que escolhi um produto
+2021-08-19T12:55:16.3550737-03:00:Thread#0:T:skipped because of previous errors
+2021-08-19T12:55:16.3580657-03:00:Thread#0:B:Quando cliquei no botão adicionar no carrinho
+2021-08-19T12:55:16.3590682-03:00:Thread#0:T:skipped because of previous errors
+2021-08-19T12:55:16.3590682-03:00:Thread#0:B:E cliquei no botão do carrinho
+2021-08-19T12:55:16.3590682-03:00:Thread#0:T:skipped because of previous errors
+2021-08-19T12:55:16.3600603-03:00:Thread#0:B:Então validei o valor Shipping e valor Total
+2021-08-19T12:55:16.3600603-03:00:Thread#0:T:skipped because of previous errors
+2021-08-19T12:55:16.4165496-03:00:Thread#0:TestItem#4:Scheduler: reschedule tests for testitem #4
+2021-08-19T12:55:16.4185439-03:00:Thread#0:Scheduler: get next test for thread 0
+2021-08-19T12:55:16.4185439-03:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2021-08-19T12:55:16.4185439-03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-08-19T12:55:16.4185439-03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-08-19T12:55:16.4185439-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-08-19T12:55:16.4185439-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-08-19T12:55:16.4185439-03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-08-19T12:55:16.4185439-03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-08-19T12:55:16.4185439-03:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2021-08-19T12:55:16.4354216-03:00:Thread#0: Test #4/0 is finished on thread #0 as Failed within 0,2913054 seconds
+2021-08-19T12:55:16.4399981-03:00:Thread#0: Test #4/1 is started on thread #0
+2021-08-19T12:55:16.4419919-03:00:Thread#0:B:Dado que escolhi um produto
+2021-08-19T12:55:16.4419919-03:00:Thread#0:T:skipped because of previous errors
+2021-08-19T12:55:16.4419919-03:00:Thread#0:B:Quando cliquei no botão adicionar no carrinho
+2021-08-19T12:55:16.4429888-03:00:Thread#0:T:skipped because of previous errors
+2021-08-19T12:55:16.4429888-03:00:Thread#0:B:E cliquei no botão do carrinho
+2021-08-19T12:55:16.4429888-03:00:Thread#0:T:skipped because of previous errors
+2021-08-19T12:55:16.4429888-03:00:Thread#0:B:Então validei o valor Shipping e valor Total
+2021-08-19T12:55:16.4429888-03:00:Thread#0:T:skipped because of previous errors
+2021-08-19T12:55:16.4459819-03:00:Thread#0:Scheduler: get next test for thread 0
+2021-08-19T12:55:16.4459819-03:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2021-08-19T12:55:16.4459819-03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-08-19T12:55:16.4459819-03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-08-19T12:55:16.4459819-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-08-19T12:55:16.4459819-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-08-19T12:55:16.4459819-03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-08-19T12:55:16.4459819-03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-08-19T12:55:16.4459819-03:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2021-08-19T12:55:16.4469774-03:00:Thread#0: Test #4/1 is finished on thread #0 as Failed within 0,0069793 seconds
+2021-08-19T12:55:16.4499691-03:00:Thread#0: Test #4/2 is started on thread #0
+2021-08-19T12:55:16.4519654-03:00:Thread#0:B:Dado que escolhi um produto
+2021-08-19T12:55:16.4522541-03:00:Thread#0:T:skipped because of previous errors
+2021-08-19T12:55:16.4522541-03:00:Thread#0:B:Quando cliquei no botão adicionar no carrinho
+2021-08-19T12:55:16.4522541-03:00:Thread#0:T:skipped because of previous errors
+2021-08-19T12:55:16.4529614-03:00:Thread#0:B:E cliquei no botão do carrinho
+2021-08-19T12:55:16.4529614-03:00:Thread#0:T:skipped because of previous errors
+2021-08-19T12:55:16.4529614-03:00:Thread#0:B:Então validei o valor Shipping e valor Total
+2021-08-19T12:55:16.4529614-03:00:Thread#0:T:skipped because of previous errors
+2021-08-19T12:55:16.4539607-03:00:Thread#0:Scheduler: get next test for thread 0
+2021-08-19T12:55:16.4539607-03:00:Thread#:Scheduler: at the end of normal test queue
+2021-08-19T12:55:16.4539607-03:00:Thread#0:Scheduler: enumerator for thread is at end
+2021-08-19T12:55:16.4539607-03:00:Thread#0:Scheduler: No more tests for thread
+2021-08-19T12:55:16.4559527-03:00:Thread#0: Test #4/2 is finished on thread #0 as Failed within 0,0059836 seconds
+2021-08-19T12:55:16.5113377-03:00:Trying to cancel thread
+2021-08-19T12:55:16.5113377-03:00:Thread cancelled
+2021-08-19T12:55:16.5193157-03:00:Thread#-1:Scheduler: get next test for thread -1
+2021-08-19T12:55:16.5193157-03:00:Thread#:Scheduler: at the end of normal test queue
+2021-08-19T12:55:16.5193157-03:00:Thread#-1:Scheduler: enumerator for thread is at end
+2021-08-19T12:55:16.5253008-03:00;Thread#13;Info;test run finished
+2021-08-19T12:55:16.5253008-03:00;Thread#13;Info;publishing test results
+2021-08-19T12:55:16.5811508-03:00;Thread#13;Info;test results published
+2021-08-19T12:55:16.5811508-03:00;Thread#13;Info;generating reports
+2021-08-19T12:55:16.6709524-03:00;Thread#13;Info;Starting external report generation process
+2021-08-19T12:55:17.9539750-03:00;Thread#13;Info;Successfully generated reports.
+2021-08-19T12:55:17.9569672-03:00;Thread#13;Info;Successfully generated reports
+2021-08-19T12:55:17.9649455-03:00:Total: 1 (test executions: 3)
+2021-08-19T12:55:17.9669409-03:00:Succeeded: 0
+2021-08-19T12:55:17.9679370-03:00:Ignored: 0
+2021-08-19T12:55:17.9679370-03:00:Pending: 0
+2021-08-19T12:55:17.9679370-03:00:Skipped: 0
+2021-08-19T12:55:17.9689343-03:00:Failed: 1
+2021-08-19T12:55:17.9779102-03:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2021-08-19T12:55:17.9779102-03:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\ProjetoTesteQa\TesteEveris\Everis\TestResults\Unnamed project__2021-08-19T125515.html'
+========== End of log file ==========

@@ -1,0 +1,39 @@
+﻿2021-08-19T18:34:38.4442962-03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2021-08-19T18:34:38.4442962-03:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.9.7 in Framework clr40 in x64 mode execution started
+2021-08-19T18:34:38.4442962-03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\Victor\.nuget\packages\specrun.runner\3.9.7\tools\net461\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2021-08-19T18:34:38.4452938-03:00;VSTestExecutionThread;Info;Current UserName: 'Anderson Sylvestre', MachineName: 'ANSW10-0264'
+2021-08-19T18:34:38.5713353-03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\ProjetoTesteQa\TesteEveris\Everis\Everis\bin\Debug\Everis.dll
+2021-08-19T18:34:38.5723328-03:00;VSTestExecutionThread;Info;Output folder configured to "C:\ProjetoTesteQa\TesteEveris\Everis\TestResults" (default)
+2021-08-19T18:34:38.5723328-03:00;VSTestExecutionThread;Info;Profile: 
+2021-08-19T18:34:38.6321729-03:00;VSTestExecutionThread;Info;Log file path: C:\ProjetoTesteQa\TesteEveris\Everis\TestResults\Unnamed project__2021-08-19T183438.log
+2021-08-19T18:34:38.6431434-03:00;Thread#15;Info;Checking activation
+2021-08-19T18:34:38.8176770-03:00;Thread#15;Info;Activated.
+2021-08-19T18:34:38.8186739-03:00;Thread#15;Info;Activation check completed
+2021-08-19T18:34:38.8186739-03:00;Thread#15;Info;Starting test run
+2021-08-19T18:34:38.8954695-03:00;Thread#15;Info;Discovering target: Default
+2021-08-19T18:34:38.8954695-03:00;Thread#15;Info;Discovering tests from assembly: C:\ProjetoTesteQa\TesteEveris\Everis\Everis\bin\Debug\Everis.dll
+2021-08-19T18:34:39.9254347-03:00;Thread#15;Info;Discovered tests from assembly: C:\ProjetoTesteQa\TesteEveris\Everis\Everis\bin\Debug\Everis.dll
+2021-08-19T18:34:39.9274301-03:00:Test Suite Dump
+2021-08-19T18:34:39.9314192-03:00:#0: Unnamed project/ - 
+2021-08-19T18:34:39.9314192-03:00:#1: Default - 
+2021-08-19T18:34:39.9314192-03:00:#2: Everis - 
+2021-08-19T18:34:39.9314192-03:00:#3: TesteEveris Validar os valores no carrinho - 
+2021-08-19T18:34:40.0092118-03:00:#4: Validar os valores no carrinho - TestAssembly:Everis/Feature:TesteEveris+Validar+os+valores+no+carrinho/Scenario:Validar+os+valores+no+carrinho
+2021-08-19T18:34:40.0092118-03:00:End: Test Suite Dump
+2021-08-19T18:34:40.0600741-03:00:Thread#0:Scheduler: get next test for thread 0
+2021-08-19T18:34:40.0640640-03:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2021-08-19T18:34:40.0640640-03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-08-19T18:34:40.0730398-03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-08-19T18:34:40.0730398-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-08-19T18:34:40.0730398-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-08-19T18:34:40.0730398-03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-08-19T18:34:40.0770291-03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-08-19T18:34:40.0790236-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-08-19T18:34:40.0880012-03:00:Thread #0: creating new test thread executor for Everis, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2021-08-19T18:34:40.0929871-03:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2021-08-19T18:34:40.1039577-03:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2021-08-19T18:34:40.1069506-03:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2021-08-19T18:34:40.5138612-03:00:Thread#0:T:-> Loading plugin C:\ProjetoTesteQa\TesteEveris\Everis\Everis\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2021-08-19T18:34:40.5298180-03:00:Thread#0:T:-> Loading plugin C:\ProjetoTesteQa\TesteEveris\Everis\Everis\bin\Debug\Everis.dll
+2021-08-19T18:34:40.5338074-03:00:Thread#0:T:-> Using default config
+2021-08-19T18:34:41.1860630-03:00:Thread#0: Test #4/0 is started on thread #0

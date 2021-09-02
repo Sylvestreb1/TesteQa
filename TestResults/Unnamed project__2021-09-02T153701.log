@@ -1,0 +1,75 @@
+﻿2021-09-02T15:37:00.9517106-03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2021-09-02T15:37:00.9517106-03:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.9.7 in Framework clr40 in x64 mode execution started
+2021-09-02T15:37:00.9517106-03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\Victor\.nuget\packages\specrun.runner\3.9.7\tools\net461\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2021-09-02T15:37:00.9517106-03:00;VSTestExecutionThread;Info;Current UserName: 'Anderson Sylvestre', MachineName: 'ANSW10-0264'
+2021-09-02T15:37:00.9956545-03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\ProjetoTesteQa\TesteEveris\Everis\Everis\bin\Debug\Everis.dll
+2021-09-02T15:37:00.9956545-03:00;VSTestExecutionThread;Info;Output folder configured to "C:\ProjetoTesteQa\TesteEveris\Everis\TestResults" (default)
+2021-09-02T15:37:00.9956545-03:00;VSTestExecutionThread;Info;Profile: 
+2021-09-02T15:37:01.0384801-03:00;VSTestExecutionThread;Info;Log file path: C:\ProjetoTesteQa\TesteEveris\Everis\TestResults\Unnamed project__2021-09-02T153701.log
+2021-09-02T15:37:01.0454987-03:00;Thread#13;Info;Checking activation
+2021-09-02T15:37:01.1093165-03:00;Thread#13;Info;Activated.
+2021-09-02T15:37:01.1093165-03:00;Thread#13;Info;Activation check completed
+2021-09-02T15:37:01.1093165-03:00;Thread#13;Info;Starting test run
+2021-09-02T15:37:01.1471883-03:00;Thread#13;Info;Discovering target: Default
+2021-09-02T15:37:01.1471883-03:00;Thread#13;Info;Discovering tests from assembly: C:\ProjetoTesteQa\TesteEveris\Everis\Everis\bin\Debug\Everis.dll
+2021-09-02T15:37:01.4903223-03:00;Thread#13;Info;Discovered tests from assembly: C:\ProjetoTesteQa\TesteEveris\Everis\Everis\bin\Debug\Everis.dll
+2021-09-02T15:37:01.4922672-03:00:Test Suite Dump
+2021-09-02T15:37:01.4942621-03:00:#0: Unnamed project/ - 
+2021-09-02T15:37:01.4942621-03:00:#1: Default - 
+2021-09-02T15:37:01.4942621-03:00:#2: Everis - 
+2021-09-02T15:37:01.4942621-03:00:#3: TesteEveris Validar os valores no carrinho - 
+2021-09-02T15:37:01.5311636-03:00:#4: Validar os valores no carrinho - TestAssembly:Everis/Feature:TesteEveris+Validar+os+valores+no+carrinho/Scenario:Validar+os+valores+no+carrinho
+2021-09-02T15:37:01.5311636-03:00:End: Test Suite Dump
+2021-09-02T15:37:01.5531037-03:00:Thread#0:Scheduler: get next test for thread 0
+2021-09-02T15:37:01.5550986-03:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2021-09-02T15:37:01.5550986-03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-09-02T15:37:01.5580905-03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-09-02T15:37:01.5580905-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-09-02T15:37:01.5580905-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-09-02T15:37:01.5580905-03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-09-02T15:37:01.5600851-03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-09-02T15:37:01.5610835-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-09-02T15:37:01.5640744-03:00:Thread #0: creating new test thread executor for Everis, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2021-09-02T15:37:01.5660689-03:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2021-09-02T15:37:01.5670664-03:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2021-09-02T15:37:01.5690611-03:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2021-09-02T15:37:01.7118875-03:00:Thread#0:T:-> Loading plugin C:\ProjetoTesteQa\TesteEveris\Everis\Everis\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2021-09-02T15:37:01.7158758-03:00:Thread#0:T:-> Loading plugin C:\ProjetoTesteQa\TesteEveris\Everis\Everis\bin\Debug\Everis.dll
+2021-09-02T15:37:01.7168740-03:00:Thread#0:T:-> Using default config
+2021-09-02T15:37:02.0539442-03:00:Thread#0: Test #4/0 is started on thread #0
+2021-09-02T15:37:10.1326306-03:00:Thread#0:B:Dado que escolhi um produto
+2021-09-02T15:37:16.2899018-03:00:Thread#0:T:done: TesteEverisValidarOsValoresNoCarrinhoSteps.DadoQueEscolhiUmProduto() (6,1s)
+2021-09-02T15:37:16.2918970-03:00:Thread#0:B:Quando cliquei no botão adicionar no carrinho
+2021-09-02T15:37:26.3031394-03:00:Thread#0:T:done: TesteEverisValidarOsValoresNoCarrinhoSteps.QuandoCliqueiNoBotaoAdicionarNoCarrinho() (10,0s)
+2021-09-02T15:37:26.3051843-03:00:Thread#0:B:E cliquei no botão do carrinho
+2021-09-02T15:37:26.3660170-03:00:Thread#0:T:pending: TesteEverisValidarOsValoresNoCarrinhoSteps.QuandoCliqueiNoBotaoDoCarrinho()
+2021-09-02T15:37:26.3660170-03:00:Thread#0:B:Então validei o valor Shipping e valor Total
+2021-09-02T15:37:26.3670026-03:00:Thread#0:T:skipped because of previous errors
+2021-09-02T15:37:26.3799720-03:00:Thread#0:T:Pending: One or more step definitions are not implemented yet.
+2021-09-02T15:37:26.3799720-03:00:Thread#0:T:  TesteEverisValidarOsValoresNoCarrinhoSteps.QuandoCliqueiNoBotaoDoCarrinho()
+2021-09-02T15:37:26.3879554-03:00:Thread#0:Scheduler: get next test for thread 0
+2021-09-02T15:37:26.3879554-03:00:Thread#:Scheduler: at the end of normal test queue
+2021-09-02T15:37:26.3879554-03:00:Thread#0:Scheduler: enumerator for thread is at end
+2021-09-02T15:37:26.3879554-03:00:Thread#0:Scheduler: No more tests for thread
+2021-09-02T15:37:26.5732801-03:00:Thread#0: Test #4/0 is finished on thread #0 as Pending within 24,5183285 seconds
+2021-09-02T15:37:26.6053876-03:00:Trying to cancel thread
+2021-09-02T15:37:26.6053876-03:00:Thread cancelled
+2021-09-02T15:37:26.6133660-03:00:Thread#-1:Scheduler: get next test for thread -1
+2021-09-02T15:37:26.6133660-03:00:Thread#:Scheduler: at the end of normal test queue
+2021-09-02T15:37:26.6133660-03:00:Thread#-1:Scheduler: enumerator for thread is at end
+2021-09-02T15:37:26.6153610-03:00;Thread#13;Info;test run finished
+2021-09-02T15:37:26.6153610-03:00;Thread#13;Info;publishing test results
+2021-09-02T15:37:26.6763036-03:00;Thread#13;Info;test results published
+2021-09-02T15:37:26.6763036-03:00;Thread#13;Info;generating reports
+2021-09-02T15:37:26.7840457-03:00;Thread#13;Info;Starting external report generation process
+2021-09-02T15:37:28.2860509-03:00;Thread#13;Info;Successfully generated reports.
+2021-09-02T15:37:28.2880463-03:00;Thread#13;Info;Successfully generated reports
+2021-09-02T15:37:28.3010113-03:00:Total: 1
+2021-09-02T15:37:28.3030053-03:00:Succeeded: 0
+2021-09-02T15:37:28.3040029-03:00:Ignored: 0
+2021-09-02T15:37:28.3040029-03:00:Pending: 1
+2021-09-02T15:37:28.3040029-03:00:Skipped: 0
+2021-09-02T15:37:28.3050012-03:00:Failed: 0
+2021-09-02T15:37:28.3189635-03:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2021-09-02T15:37:28.3189635-03:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\ProjetoTesteQa\TesteEveris\Everis\TestResults\Unnamed project__2021-09-02T153700.html'
+========== End of log file ==========

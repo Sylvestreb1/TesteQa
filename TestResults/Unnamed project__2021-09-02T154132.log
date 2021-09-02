@@ -1,0 +1,61 @@
+﻿2021-09-02T15:41:32.3430177-03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2021-09-02T15:41:32.3430177-03:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.9.7 in Framework clr40 in x64 mode execution started
+2021-09-02T15:41:32.3430177-03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\Victor\.nuget\packages\specrun.runner\3.9.7\tools\net461\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2021-09-02T15:41:32.3430177-03:00;VSTestExecutionThread;Info;Current UserName: 'Anderson Sylvestre', MachineName: 'ANSW10-0264'
+2021-09-02T15:41:32.3828753-03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\ProjetoTesteQa\TesteEveris\Everis\Everis\bin\Debug\Everis.dll
+2021-09-02T15:41:32.3828753-03:00;VSTestExecutionThread;Info;Output folder configured to "C:\ProjetoTesteQa\TesteEveris\Everis\TestResults" (default)
+2021-09-02T15:41:32.3828753-03:00;VSTestExecutionThread;Info;Profile: 
+2021-09-02T15:41:32.4248813-03:00;VSTestExecutionThread;Info;Log file path: C:\ProjetoTesteQa\TesteEveris\Everis\TestResults\Unnamed project__2021-09-02T154132.log
+2021-09-02T15:41:32.4319027-03:00;Thread#13;Info;Checking activation
+2021-09-02T15:41:32.5016741-03:00;Thread#13;Info;Activated.
+2021-09-02T15:41:32.5026715-03:00;Thread#13;Info;Activation check completed
+2021-09-02T15:41:32.5026715-03:00;Thread#13;Info;Starting test run
+2021-09-02T15:41:32.5376804-03:00;Thread#13;Info;Discovering target: Default
+2021-09-02T15:41:32.5376804-03:00;Thread#13;Info;Discovering tests from assembly: C:\ProjetoTesteQa\TesteEveris\Everis\Everis\bin\Debug\Everis.dll
+2021-09-02T15:41:32.8968854-03:00;Thread#13;Info;Discovered tests from assembly: C:\ProjetoTesteQa\TesteEveris\Everis\Everis\bin\Debug\Everis.dll
+2021-09-02T15:41:32.8988818-03:00:Test Suite Dump
+2021-09-02T15:41:32.8999246-03:00:#0: Unnamed project/ - 
+2021-09-02T15:41:32.8999246-03:00:#1: Default - 
+2021-09-02T15:41:32.8999246-03:00:#2: Everis - 
+2021-09-02T15:41:32.8999246-03:00:#3: TesteEveris Validar os valores no carrinho - 
+2021-09-02T15:41:32.9388520-03:00:#4: Validar os valores no carrinho - TestAssembly:Everis/Feature:TesteEveris+Validar+os+valores+no+carrinho/Scenario:Validar+os+valores+no+carrinho
+2021-09-02T15:41:32.9388520-03:00:End: Test Suite Dump
+2021-09-02T15:41:32.9637491-03:00:Thread#0:Scheduler: get next test for thread 0
+2021-09-02T15:41:32.9647466-03:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2021-09-02T15:41:32.9647466-03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-09-02T15:41:32.9701803-03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-09-02T15:41:32.9701803-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-09-02T15:41:32.9701803-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-09-02T15:41:32.9701803-03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-09-02T15:41:32.9711484-03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-09-02T15:41:32.9721453-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-09-02T15:41:32.9761346-03:00:Thread #0: creating new test thread executor for Everis, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2021-09-02T15:41:32.9771319-03:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2021-09-02T15:41:32.9801241-03:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2021-09-02T15:41:32.9811214-03:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2021-09-02T15:41:33.1442884-03:00:Thread#0:T:-> Loading plugin C:\ProjetoTesteQa\TesteEveris\Everis\Everis\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2021-09-02T15:41:33.1482792-03:00:Thread#0:T:-> Loading plugin C:\ProjetoTesteQa\TesteEveris\Everis\Everis\bin\Debug\Everis.dll
+2021-09-02T15:41:33.1502807-03:00:Thread#0:T:-> Using default config
+2021-09-02T15:41:33.4466899-03:00:Thread#0: Test #4/0 is started on thread #0
+2021-09-02T15:41:42.7992078-03:00:Thread#0:B:Dado que escolhi um produto
+2021-09-02T15:41:48.9720151-03:00:Thread#0:T:done: TesteEverisValidarOsValoresNoCarrinhoSteps.DadoQueEscolhiUmProduto() (6,1s)
+2021-09-02T15:41:48.9740098-03:00:Thread#0:B:Quando cliquei no botão adicionar no carrinho
+2021-09-02T15:41:53.0459993-03:00:Thread#0:T:error: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="add_to_cart"]/button/span"}
+2021-09-02T15:41:53.0459993-03:00:Thread#0:T:  (Session info: chrome=92.0.4515.159) (4,1s)
+2021-09-02T15:41:53.0469962-03:00:Thread#0:B:E cliquei no botão do carrinho
+2021-09-02T15:41:53.0480630-03:00:Thread#0:T:skipped because of previous errors
+2021-09-02T15:41:53.0530542-03:00:Thread#0:B:Então validei o valor Shipping e valor Total
+2021-09-02T15:41:53.0530542-03:00:Thread#0:T:skipped because of previous errors
+2021-09-02T15:41:53.1039343-03:00:Thread#0:TestItem#4:Scheduler: reschedule tests for testitem #4
+2021-09-02T15:41:53.1049326-03:00:Thread#0:Scheduler: get next test for thread 0
+2021-09-02T15:41:53.1049326-03:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2021-09-02T15:41:53.1049326-03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-09-02T15:41:53.1049326-03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-09-02T15:41:53.1049326-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-09-02T15:41:53.1049326-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-09-02T15:41:53.1049326-03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-09-02T15:41:53.1049326-03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-09-02T15:41:53.1049326-03:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2021-09-02T15:41:53.2646671-03:00:Thread#0: Test #4/0 is finished on thread #0 as Failed within 19,8179772 seconds
+2021-09-02T15:41:53.2666671-03:00:Thread#0: Test #4/1 is started on thread #0
+2021-09-02T15:42:00.8652909-03:00:Thread#0:B:Dado que escolhi um produto

@@ -1,0 +1,44 @@
+﻿2021-09-02T15:42:33.1195938-03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2021-09-02T15:42:33.1195938-03:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.9.7 in Framework clr40 in x64 mode execution started
+2021-09-02T15:42:33.1195938-03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\Victor\.nuget\packages\specrun.runner\3.9.7\tools\net461\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2021-09-02T15:42:33.1195938-03:00;VSTestExecutionThread;Info;Current UserName: 'Anderson Sylvestre', MachineName: 'ANSW10-0264'
+2021-09-02T15:42:33.1709662-03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\ProjetoTesteQa\TesteEveris\Everis\Everis\bin\Debug\Everis.dll
+2021-09-02T15:42:33.1709662-03:00;VSTestExecutionThread;Info;Output folder configured to "C:\ProjetoTesteQa\TesteEveris\Everis\TestResults" (default)
+2021-09-02T15:42:33.1709662-03:00;VSTestExecutionThread;Info;Profile: 
+2021-09-02T15:42:33.2310212-03:00;VSTestExecutionThread;Info;Log file path: C:\ProjetoTesteQa\TesteEveris\Everis\TestResults\Unnamed project__2021-09-02T154233.log
+2021-09-02T15:42:33.2400187-03:00;Thread#15;Info;Checking activation
+2021-09-02T15:42:33.3342142-03:00;Thread#15;Info;Activated.
+2021-09-02T15:42:33.3352105-03:00;Thread#15;Info;Activation check completed
+2021-09-02T15:42:33.3352105-03:00;Thread#15;Info;Starting test run
+2021-09-02T15:42:33.4040272-03:00;Thread#15;Info;Discovering target: Default
+2021-09-02T15:42:33.4050243-03:00;Thread#15;Info;Discovering tests from assembly: C:\ProjetoTesteQa\TesteEveris\Everis\Everis\bin\Debug\Everis.dll
+2021-09-02T15:42:34.1056675-03:00;Thread#15;Info;Discovered tests from assembly: C:\ProjetoTesteQa\TesteEveris\Everis\Everis\bin\Debug\Everis.dll
+2021-09-02T15:42:34.1086607-03:00:Test Suite Dump
+2021-09-02T15:42:34.1106569-03:00:#0: Unnamed project/ - 
+2021-09-02T15:42:34.1106569-03:00:#1: Default - 
+2021-09-02T15:42:34.1106569-03:00:#2: Everis - 
+2021-09-02T15:42:34.1106569-03:00:#3: TesteEveris Validar os valores no carrinho - 
+2021-09-02T15:42:34.1595533-03:00:#4: Validar os valores no carrinho - TestAssembly:Everis/Feature:TesteEveris+Validar+os+valores+no+carrinho/Scenario:Validar+os+valores+no+carrinho
+2021-09-02T15:42:34.1595533-03:00:End: Test Suite Dump
+2021-09-02T15:42:34.1914383-03:00:Thread#0:Scheduler: get next test for thread 0
+2021-09-02T15:42:34.1934325-03:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2021-09-02T15:42:34.1934325-03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-09-02T15:42:34.1984194-03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-09-02T15:42:34.1984194-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-09-02T15:42:34.1984194-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-09-02T15:42:34.1984194-03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-09-02T15:42:34.2004139-03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-09-02T15:42:34.2014114-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-09-02T15:42:34.2044031-03:00:Thread #0: creating new test thread executor for Everis, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2021-09-02T15:42:34.2063977-03:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2021-09-02T15:42:34.2145293-03:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2021-09-02T15:42:34.2165452-03:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2021-09-02T15:42:34.5435855-03:00:Thread#0:T:-> Loading plugin C:\ProjetoTesteQa\TesteEveris\Everis\Everis\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2021-09-02T15:42:34.5545569-03:00:Thread#0:T:-> Loading plugin C:\ProjetoTesteQa\TesteEveris\Everis\Everis\bin\Debug\Everis.dll
+2021-09-02T15:42:34.5575485-03:00:Thread#0:T:-> Using default config
+2021-09-02T15:42:35.0193896-03:00:Thread#0: Test #4/0 is started on thread #0
+2021-09-02T15:42:42.6062995-03:00:Thread#0:B:Dado que escolhi um produto
+2021-09-02T15:42:48.7632654-03:00:Thread#0:T:done: TesteEverisValidarOsValoresNoCarrinhoSteps.DadoQueEscolhiUmProduto() (6,1s)
+2021-09-02T15:42:52.5615451-03:00:Thread#0:B:Quando cliquei no botão adicionar no carrinho
+2021-09-02T15:42:59.0864618-03:00:Thread#0:T:error: no such element: Unable to locate element: {"method":"css selector","selector":"#\/\/\*\[\@id\=\"add_to_cart\"\]\/button\/span"}
+2021-09-02T15:42:59.0864618-03:00:Thread#0:T:  (Session info: chrome=92.0.4515.159) (6,5s)
